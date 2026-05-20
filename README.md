@@ -1,7 +1,7 @@
 # Analysis of Individual Spike Trains - Chapter 3, Paull Miller
 
-- Tutorial 3.1
-- Tutorial 3.2
+- Tutorial 3.1 [tut_3_1.ipynb]
+- Tutorial 3.2 [tut_3_2.ipynb]
 
 Topics covered include:
 
