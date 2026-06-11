@@ -20,13 +20,10 @@ Clone the repository:
 ```bash
 git clone https://github.com/d-domeniconi/tutorials.git
 cd tutorials
-
-## Requirements
-
-- Python 3
-- NumPy
-- Matplotlib
+```
 
 Install dependencies with:
 
+```bash
 pip install -r requirements.txt
+```
