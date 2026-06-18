@@ -13,7 +13,9 @@ Topics covered include:
 - Poisson spike statistics
 - NumPy-based neural simulations
 
-## Installation
+##
+
+### Installation
 
 #### Clone the repository:
 
@@ -21,13 +23,14 @@ Topics covered include:
 git clone https://github.com/d-domeniconi/tutorials.git
 cd tutorials
 ```
-#### Create the virtual environment named 'tut':
+
+#### Create the virtual environment named 'tut'
 
 ```bash
 python3 -m venv tut
 ```
 
-#### Activate the environment:
+#### Activate the environment
 
 On macOS/Linux:
 
@@ -47,7 +50,7 @@ On Windows (PowerShell):
  .\tut\Scripts\Activate.ps1
 ```
 
-#### Install dependencies with:
+#### Install dependencies
 
 ```bash
 pip install --upgrade pip
