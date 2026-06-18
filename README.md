@@ -13,21 +13,46 @@ Topics covered include:
 - Poisson spike statistics
 - NumPy-based neural simulations
 
-## Installation
+##
 
-Clone the repository:
+### Installation
+
+#### Clone the repository
 
 ```bash
 git clone https://github.com/d-domeniconi/tutorials.git
 cd tutorials
+```
 
-## Requirements
-
-- Python 3
-- NumPy
-- Matplotlib
-
-Install dependencies with:
+#### Create the virtual environment named 'tut'
 
 ```bash
+python3 -m venv tut
+```
+
+#### Activate the environment
+
+On macOS/Linux:
+
+```bash
+source tut/bin/activate
+```
+
+On Windows (Command Prompt):
+
+```bash
+tut\Scripts\activate.bat
+```
+
+On Windows (PowerShell):
+
+```bash
+ .\tut\Scripts\Activate.ps1
+```
+
+#### Install dependencies
+
+```bash
+pip install --upgrade pip
 pip install -r requirements.txt
+```
